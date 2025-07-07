@@ -1,11 +1,11 @@
 [
   {
     "client_id": "alice",
-    "client_address": "192.168.1.10"
+    "client_address": "10.0.0.1"
   },
   {
     "client_id": "bob",
-    "client_address": "192.168.1.20"
+    "client_address": "10.0.0.3"
   },
   {
     "client_id": "eve",
